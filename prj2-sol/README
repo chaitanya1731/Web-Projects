@@ -1,0 +1,12 @@
+Name:		Chaitanya Kulkarni
+B-Number:	B00814455
+Email:		ckulkar2@binghamton.edu
+
+Project 2 is completed successfully and tested both on local machine as well as on the virtual machine on remote.cs.binghamton.edu.
+- Completed all the CRUD functionality as required in the project.
+- Database 'project2_ckulkar2' is created and data is saved in collections in the same db.
+- Also created the required indexes on the collections using db.collection.createIndex() method.
+- Deleted the index using db.collection.dropIndexes() method in clear before clearing all the data.
+- Done exception handling according to requirement and wherever necessary.
+- Updated Validator.js file to handle '_id' input request and throw exception for the same.
+- Getting output as expected given in annotated log.

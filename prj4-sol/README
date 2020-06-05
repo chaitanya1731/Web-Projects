@@ -1,0 +1,9 @@
+Name:		Chaitanya Kulkarni	
+B-Number:	B00814455
+Email:		ckulkar2@binghamton.edu
+
+Project 4 is completed successfully and tested both on local machine as well as virtual machine on remote.cs.binghamton.edu.
+- Completed the web pages for List users and Search users
+- Done error handling on server for fields like email, creation time, etc to handle the web-service error.
+- Created userIdCheck.js static js file that checks if the user is present in the database during runtime.
+- Getting expected output as per provided example.

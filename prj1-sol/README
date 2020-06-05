@@ -1,0 +1,21 @@
+Name:		Chaitanya Kulkarni
+B-Number:	B00814455
+Email:		ckulkar2@binghamton.edu
+
+- Required CRUD functionality is successfully completed.
+- Could not implement multiple indexing but code is able to check not only with ID field but also with any other fields.
+- Example - 
+
+>> find users firstName=Betty _count=2
+firstName: 3
+[
+  {
+    "id": "betty"
+  },
+  {
+    "id": "betty74"
+  }
+]
+
+
+- Project submitted on - February 17th 2020.
